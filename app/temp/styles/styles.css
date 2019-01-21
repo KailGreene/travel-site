@@ -1,0 +1,12 @@
+body {
+  color: #2f5572;
+  padding: 1rem;
+  -webkit-columns: 1rem 2;
+          columns: 1rem 2;
+  width: 1rem;
+}
+
+box a {
+    display: block;
+    padding: 10px;
+  }
